@@ -1,6 +1,6 @@
 <html>
 <div align="center">
-   <h1>Namaste!  I'm <a href="https://anup-narkhede.github.io/Portfolio/">Anup</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Namaste!  I'm <a href="https://anup-narkhede.github.io/Portfolio/">Piyush</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 </div>
 </html>
@@ -48,5 +48,5 @@ href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.hero
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anup-Narkhede.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PiyushSole.aemmadi)
 
